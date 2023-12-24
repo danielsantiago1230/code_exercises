@@ -11,7 +11,7 @@ This repository contains a collection of coding problems and solutions. The prob
 ## Easy Problems
 1. [Test for Nulls in an Array (Python)](#problem-1)
 2. [Find multiples (Python)](#problem-2)
-3. [Find the largest Number in an Array (TypeScript)](#problem-3)
+3. [Find the largest Number in an Array (JavaScript)](#problem-3)
 
 ...
 
