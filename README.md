@@ -12,6 +12,7 @@ This repository contains a collection of coding problems and solutions. The prob
 1. [Test for Nulls in an Array (Python)](#problem-1)
 2. [Find multiples (Python)](#problem-2)
 3. [Find the largest Number in an Array (JavaScript)](#problem-3)
+4. [Palindrome Checker (JavaScript)](#problem-4)
 
 ...
 
