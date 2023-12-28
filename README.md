@@ -13,6 +13,8 @@ This repository contains a collection of coding problems and solutions. The prob
 2. [Find multiples (Python)](#problem-2)
 3. [Find the largest Number in an Array (JavaScript)](#problem-3)
 4. [Palindrome Checker (JavaScript)](#problem-4)
+6. [Test a Prime Number(Python)](#problem-4)
+5. [Find Duplicate Characters (Javascript)](#problem-5)
 
 ...
 
